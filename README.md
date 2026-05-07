@@ -74,7 +74,7 @@ The dataset includes the following columns:
 
 # 📸 Dashboard Preview
 
-
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/5881b0e0-9817-43b9-87cd-1a43d0072fb2" />
 
 
 
